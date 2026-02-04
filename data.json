@@ -2,91 +2,108 @@
   {
     "name": "Mineral fuels, oils, distillation products",
     "icon": "🛢️",
-    "amount": 180.47
+    "amount": 180.4,
+    "color": "pink"
   },
   {
     "name": "Vehicles other than railway, tramway",
     "icon": "🚗",
-    "amount": 50.28
+    "amount": 50.28,
+    "color": "green"
   },
   {
     "name": "Machinery, nuclear reactors, boilers",
     "icon": "⚙️",
-    "amount": 37.72
+    "amount": 37.72,
+    "color": "red"
   },
   {
     "name": "Pearls, precious stones, metals, coins",
     "icon": "💎",
-    "amount": 22.34
+    "amount": 22.34,
+    "color": "blue"
   },
   {
     "name": "Commodities not specified according to kind",
     "icon": "❓",
-    "amount": 21.62
+    "amount": 21.62,
+    "color": "violet"
   },
   {
     "name": "Wood and articles of wood, wood charcoal",
     "icon": "🪵",
-    "amount": 19.74
+    "amount": 19.74,
+    "color": "brown"
   },
   {
     "name": "Plastics",
     "icon": "🥤",
-    "amount": 17.24
+    "amount": 17.24,
+    "color": "lightblue"
   },
   {
     "name": "Electrical, electronic equipment",
     "icon": "⚡",
-    "amount": 14.73
+    "amount": 14.73,
+    "color": "pink"
   },
   {
     "name": "Aluminum",
     "icon": "🔗",
-    "amount": 14.13
+    "amount": 14.13,
+    "color": "lightgreen"
   },
   {
     "name": "Fertilizers",
     "icon": "🌱",
-    "amount": 13.72
+    "amount": 13.72,
+    "color": "darkgreen"
   },
   {
     "name": "Ores slag and ash",
     "icon": "⛏️",
-    "amount": 11.58
+    "amount": 11.58,
+    "color": "gray"
   },
   {
     "name": "Iron and steel",
     "icon": "🪨",
-    "amount": 11.19
+    "amount": 11.19,
+    "color": "black"
   },
   {
     "name": "Pharmaceutical products",
     "icon": "💊",
-    "amount": 10.73
+    "amount": 10.73,
+    "color": "yellow"
   },
   {
     "name": "Cereals",
     "icon": "🌽",
-    "amount": 10.16
+    "amount": 10.16,
+    "color": "orange"
   },
   {
     "name": "Aircraft, spacecraft",
     "icon": "✈️",
-    "amount": 10.15
+    "amount": 10.15,
+    "color": "purple"
   },
   {
     "name": "Paper and paperboard, articles of pulp, paper and board",
     "icon": "✉️",
-    "amount": 8.46
-  },
+    "amount": 8.46,
+    "color": "white"  },
   {
     "name": "Optical, photo, technical, medical apparatus",
     "icon": "📸",
-    "amount": 8.20
+    "amount": 8.20,
+    "color": "blue"  
   },
   {
     "name": "Oil seed, oleagic fruits, grain, seed, fruits",
     "icon": "🍓",
-    "amount": 8.15
+    "amount": 8.15,
+    "color": "violet"  
   }
 ]
